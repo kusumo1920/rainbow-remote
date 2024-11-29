@@ -1,1 +1,2 @@
 Red is the first color for rainbow.
+Orange is the second color of rainbow.
